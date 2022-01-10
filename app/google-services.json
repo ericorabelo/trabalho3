@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "337818377448",
+    "project_id": "trabalho3-b777c",
+    "storage_bucket": "trabalho3-b777c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337818377448:android:797072e1390cd060d17d5d",
+        "android_client_info": {
+          "package_name": "com.example.trabalho3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337818377448-u702ejvcgvsqq5c6oj78uv53hme87llo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.trabalho3",
+            "certificate_hash": "45a913ca8275869a45ba4f78630992ab21dadd60"
+          }
+        },
+        {
+          "client_id": "337818377448-g0bdskbbufpnsfiudi74f698s31q1o3g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcB4kYAxRhtHEo5ihb7RU3ZQ5s-Bt8oEo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337818377448-g0bdskbbufpnsfiudi74f698s31q1o3g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

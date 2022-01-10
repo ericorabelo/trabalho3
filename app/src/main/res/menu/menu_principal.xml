@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/itemSalvar"
+        android:title="Salvar"
+        android:visible="true"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/itemAtualizar"
+        android:title="Editar"
+        app:showAsAction="always"
+        />
+    <item
+        android:id="@+id/itemDeletar"
+        android:title="Deletar"
+        app:showAsAction="always"
+        />
+</menu>
